@@ -149,7 +149,7 @@ void ST7305_LCD::initial_st7305() {
     write_cmd(0xB7); write_param(0x13); // Source EQ Enable
     write_cmd(0xB0); write_param(0x60); // Gate Line Setting: 384 line
 
-    write_cmd(0x11); vTaskDelay(pdMS_TO_TICKS(100)); // Sleep out
+    write_cmd(0x11); vTaskDelay(pdMS_TO_TICKS(120)); // Sleep out
 
     write_cmd(0xC9); write_param(0x00); // Source Voltage Select
     write_cmd(0x36); write_param(0x00); // Memory Data Access Control
@@ -165,7 +165,7 @@ void ST7305_LCD::initial_st7305() {
     write_cmd(0xD0); write_param(0xFF); // Auto power down
     write_cmd(0x38);                    // Frame rate mode (HPM 高刷，扫描不易被看到)
     write_cmd(0x29);                    // Display on
-    vTaskDelay(pdMS_TO_TICKS(100));
+    vTaskDelay(pdMS_TO_TICKS(120));
 
     HPM_MODE = true; LPM_MODE = false;
 }
@@ -225,7 +225,7 @@ void ST7305_LCD::display_sleep(bool enabled){
         vTaskDelay(pdMS_TO_TICKS(100));
     } else {
         write_cmd(0x11);
-        vTaskDelay(pdMS_TO_TICKS(100));
+        vTaskDelay(pdMS_TO_TICKS(120));
     }
 }
 
