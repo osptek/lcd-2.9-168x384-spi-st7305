@@ -30,7 +30,7 @@ This repository holds materials for the **2.9″ 168×384 reflective LCD (SPI ·
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `2.9-lcd-168x384-spi-st7305`
+Repo id: `lcd-2.9-168x384-spi-st7305`
 
 ---
 

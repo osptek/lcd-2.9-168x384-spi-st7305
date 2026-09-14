@@ -31,7 +31,7 @@
 
 OSPTEK **2.9″ 168×384 reflective LCD** is a **SPI** monochrome display module driven by **ST7305**. Suited to low-power instruments, labels, and outdoor-readable UIs.
 
-Spec ID (repository name): `2.9-lcd-168x384-spi-st7305`
+Spec ID (repository name): `lcd-2.9-168x384-spi-st7305`
 
 Current module version: **YDP290H004-V3**. Electrical and mechanical details follow [`docs/YDP_290_H004_V3_e8d57c8d9d.pdf`](./docs/YDP_290_H004_V3_e8d57c8d9d.pdf).
 
@@ -59,7 +59,7 @@ Bring-up demo GIF: [`assets/video_1.gif`](./assets/video_1.gif).
 ## Repository layout
 
 ```text
-2.9-lcd-168x384-spi-st7305/                                # repo root (nav: ../../README_EN.md)
+lcd-2.9-168x384-spi-st7305/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP290H004-V3/                                # full materials for this part number
         ├── README.md

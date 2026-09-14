@@ -31,7 +31,7 @@
 
 OSPTEK **2.9 寸 168×384 全反射 LCD** 是一款 **SPI** 接口黑白显示模组，显示驱动为 **ST7305**。适合低功耗仪表、标签与户外可读场景。
 
-规格标识（仓库名）：`2.9-lcd-168x384-spi-st7305`
+规格标识（仓库名）：`lcd-2.9-168x384-spi-st7305`
 
 当前模组版本：**YDP290H004-V3**。电气与外形细节以 [`docs/YDP_290_H004_V3_e8d57c8d9d.pdf`](./docs/YDP_290_H004_V3_e8d57c8d9d.pdf) 为准。
 
@@ -59,7 +59,7 @@ bring-up 演示动图见 [`assets/video_1.gif`](./assets/video_1.gif)。
 ## 仓库结构
 
 ```text
-2.9-lcd-168x384-spi-st7305/                                # 仓库根（导航见 ../../README.md）
+lcd-2.9-168x384-spi-st7305/                                # 仓库根（导航见 ../../README.md）
 └── versions/
     └── YDP290H004-V3/                                # 本料号完整资料
         ├── README.md
