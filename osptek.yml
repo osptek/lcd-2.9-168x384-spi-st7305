@@ -6,6 +6,7 @@ panel: lcd
 resolution: 168x384
 interface: [spi]
 shape: rect
+corner: sharp
 
 versions:
   - id: YDP290H001-V3
