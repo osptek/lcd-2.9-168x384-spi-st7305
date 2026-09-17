@@ -1,0 +1,18 @@
+id: lcd-2.9-168x384-spi-st7305
+category: displays
+
+size: "2.9"
+panel: lcd
+resolution: 168x384
+interface: [spi]
+shape: rect
+
+versions:
+  - id: YDP290H001-V3
+    driver: ST7305
+    touch: none
+    note: none
+  - id: YDP290H004-V3
+    driver: ST7305
+    touch: none
+    note: none
