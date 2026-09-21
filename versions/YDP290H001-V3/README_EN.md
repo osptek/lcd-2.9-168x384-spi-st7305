@@ -53,6 +53,7 @@ Current module version: **YDP290H001-V3**. Electrical and mechanical details fol
 | ---- | ---- |
 | ESP32-S3 · ST7305 SPI bring-up (stripes / checker / scan) | [`examples/esp32s3-2.9-tft-168x384-spi-st7305-bringup/`](./examples/esp32s3-2.9-tft-168x384-spi-st7305-bringup/) |
 | ESP32-S3 · ST7305 SPI + LVGL8 | [`examples/esp32s3-idf5_st7305-spi_lvgl8/`](./examples/esp32s3-idf5_st7305-spi_lvgl8/) |
+| Community firmware · OpenBread Normal One (ESP32-S3 · ST7305 reflective) | [https://github.com/SaltyFishPro/OpenBread-Normal-one](https://github.com/SaltyFishPro/OpenBread-Normal-one) |
 
 Bring-up demo GIF: [`assets/video_1.gif`](./assets/video_1.gif).
 

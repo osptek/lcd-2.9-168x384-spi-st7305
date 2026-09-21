@@ -53,6 +53,7 @@ OSPTEK **2.9 寸 168×384 全反射 LCD** 是一款 **SPI** 接口黑白显示�
 | ---- | ---- |
 | ESP32-S3 · ST7305 SPI bring-up（条纹 / 棋盘 / 逐行刷新） | [`examples/esp32s3-2.9-tft-168x384-spi-st7305-bringup/`](./examples/esp32s3-2.9-tft-168x384-spi-st7305-bringup/) |
 | ESP32-S3 · ST7305 SPI + LVGL8 | [`examples/esp32s3-idf5_st7305-spi_lvgl8/`](./examples/esp32s3-idf5_st7305-spi_lvgl8/) |
+| 社区固件 · OpenBread Normal One（ESP32-S3 · ST7305 全反） | [https://github.com/SaltyFishPro/OpenBread-Normal-one](https://github.com/SaltyFishPro/OpenBread-Normal-one) |
 
 bring-up 演示动图见 [`assets/video_1.gif`](./assets/video_1.gif)。
 
