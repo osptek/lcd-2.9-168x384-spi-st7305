@@ -77,6 +77,7 @@ lcd-2.9-168x384-spi-st7305/                                # 仓库根（导航�
 | 资料 | 链接 |
 | ---- | ---- |
 | 产品规格书（YDP290H001-V3） | [`docs/YDP_290_H001_V3_1dcc5ea9e3.pdf`](./docs/YDP_290_H001_V3_1dcc5ea9e3.pdf) |
+| 外形 CAD（YDP290H001-V3） | [`docs/YDP290H001-V3.dwg`](./docs/YDP290H001-V3.dwg) |
 | 驱动 IC 数据手册（ST7305） | [`docs/ST_7305_V0_2_d0b99d9cdb.pdf`](./docs/ST_7305_V0_2_d0b99d9cdb.pdf) |
 | 2.9 寸全反转接板原理图（DEMO） | [`docs/SCH_2.9寸全反转接板_DEMO.pdf`](./docs/SCH_2.9%E5%AF%B8%E5%85%A8%E5%8F%8D%E8%BD%AC%E6%8E%A5%E6%9D%BF_DEMO.pdf) |
 | 2.9 寸全反转接板（24pin） | [`docs/2.9寸全反转接板-24pin.pdf`](./docs/2.9%E5%AF%B8%E5%85%A8%E5%8F%8D%E8%BD%AC%E6%8E%A5%E6%9D%BF-24pin.pdf) |

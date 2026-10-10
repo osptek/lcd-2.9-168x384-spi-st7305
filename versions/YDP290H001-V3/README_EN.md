@@ -77,6 +77,7 @@ lcd-2.9-168x384-spi-st7305/                                # repo root (nav: ../
 | Resource | Link |
 | ---- | ---- |
 | Product datasheet (YDP290H001-V3) | [`docs/YDP_290_H001_V3_1dcc5ea9e3.pdf`](./docs/YDP_290_H001_V3_1dcc5ea9e3.pdf) |
+| Outline CAD (YDP290H001-V3) | [`docs/YDP290H001-V3.dwg`](./docs/YDP290H001-V3.dwg) |
 | Driver IC datasheet (ST7305) | [`docs/ST_7305_V0_2_d0b99d9cdb.pdf`](./docs/ST_7305_V0_2_d0b99d9cdb.pdf) |
 | 2.9″ reflective adapter schematic (DEMO) | [`docs/SCH_2.9寸全反转接板_DEMO.pdf`](./docs/SCH_2.9%E5%AF%B8%E5%85%A8%E5%8F%8D%E8%BD%AC%E6%8E%A5%E6%9D%BF_DEMO.pdf) |
 | 2.9″ reflective adapter board (24pin) | [`docs/2.9寸全反转接板-24pin.pdf`](./docs/2.9%E5%AF%B8%E5%85%A8%E5%8F%8D%E8%BD%AC%E6%8E%A5%E6%9D%BF-24pin.pdf) |
